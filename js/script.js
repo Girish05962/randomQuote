@@ -23,7 +23,9 @@ var quotes = [
    {quote:"Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.",
     source:"Viktor Frankl"},
     {quote:"When we are no longer able to change a situation, we are challenged to change ourselves.",
-    source:"Viktor Frankl"}
+    source:"Viktor Frankl"},
+    {quote:"I did not become a vegetarian for my health, I did it for the health of the chickens.",
+    source:"Isaac Bashevis Singer" }
  
  ];
 
