@@ -6,6 +6,9 @@ var colors = [
 // Create the array of quote objects and name it quotes
 //object contains quote, source & tag properties
 var quotes = [
+
+    {quote:"We become what we think about",
+    source:"Earl Nightingale"},
 	{
 		quote: "Education is the passport to the future, for tomorrow belongs to those who prepare for it today.",
 		source: "Malcolm X",
