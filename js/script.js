@@ -23,8 +23,10 @@ var quotes = [
    {quote:"Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.",
     source:"Viktor Frankl"},
     {quote:"When we are no longer able to change a situation, we are challenged to change ourselves.",
-    source:"Viktor Frankl"}
- 
+    source:"Viktor Frankl"},
+    {quote:"Changes and progress very rarely are gifts from above.  They come out of struggles from below",
+    source:"Noam Chomsky"}
+
  ];
 
 // Create the getRandomQuuote function and name it getRandomQuote
@@ -45,13 +47,13 @@ function getRandomColor(array) {
 function getRandomQuote(array){
     var rando = Math.floor(Math.random() * array.length);
     var randomQuote = array[rando];
-    return randomQuote; 
+    return randomQuote;
 }
 
 
 // Create the printQuote funtion and name it printQuote
 function printQuote() {
-    //call randomquote and store the returned quote in a variable 
+    //call randomquote and store the returned quote in a variable
     getRandomColor(colors);
     var randomQuote = getRandomQuote(quotes);
 if(randomQuote.hasOwnProperty('tags')){
@@ -67,7 +69,7 @@ if(randomQuote.hasOwnProperty('tags')){
     document.getElementById('quote-box').innerHTML = '<p class="quote">' + randomQuote.quote + '</p><p class="source">' + randomQuote.source + '</p>';
 }
 };
-//refresh page every 5 seconds 
+//refresh page every 5 seconds
 setInterval(printQuote, 9000);
 
 
