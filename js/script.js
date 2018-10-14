@@ -59,7 +59,11 @@ var quotes = [
     },
     {
         quote: "Success is going from failure to failure without losing your enthusiasm.",
-        source: "Winston Churchill"
+        source: "Winston Churchill",
+        tags: [
+            "#Success",
+            "#Failure",
+        ]
     },
     {
         quote: "What you do speaks so loudly that I cannot hear what you say.",
@@ -67,7 +71,11 @@ var quotes = [
     },
     {
         quote: "You must be the change you wish to see in the world.",
-        source: "Mahatma Gandhi"
+        source: "Mahatma Gandhi",
+        tags: [
+            "#Change",
+            "#World",
+        ]
     },
     {
         quote: "Tough times never last, but tough people do.",
@@ -79,15 +87,25 @@ var quotes = [
     },
     {
         quote: "There is only one success: to be able to spend your life in your own way.",
-        source: "Christopher Morley"
+        source: "Christopher Morley",
+        tags: [
+            "#Success",
+        ]
     },
     {
         quote: "The best dreams happen when you’re awake.",
-        source: "Cherie Gilderbloom"
+        source: "Cherie Gilderbloom",
+        tags: [
+            "#Dream",
+        ]
     },
     {
         quote: "Believe and act as if it were impossible to fail.",
-        source: "Charles Kettering "
+        source: "Charles Kettering ",
+        tags: [
+            "#Believe",
+            "#Act",
+        ]
     },
     {
         quote: "Don’t count the days, make the days count.",
@@ -115,7 +133,10 @@ var quotes = [
     },
     {
         quote: "The harder I work, the luckier I get.",
-        source: "Gary Player"
+        source: "Gary Player",
+        tags: [
+            "#HardWork",
+        ]
     },
     {
         quote: "Someday is not a day of the week.",
@@ -123,7 +144,10 @@ var quotes = [
     },
     {
         quote: "Choosing a goal and sticking to it changes everything.",
-        source: "Scott Reed"
+        source: "Scott Reed",
+        tags: [
+            "#Goal",
+        ]
     },
     {
         quote: "Don’t wish it were easier, wish you were better.",
