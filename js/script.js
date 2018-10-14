@@ -24,7 +24,9 @@ var quotes = [
     source:"Viktor Frankl"},
     {quote:"When we are no longer able to change a situation, we are challenged to change ourselves.",
     source:"Viktor Frankl"}
- 
+    {quote:"If you are bad at something that doesnt mean you are bad it. Put efforts and prove that you are good at it",
+    source:"Girish"}
+    
  ];
 
 // Create the getRandomQuuote function and name it getRandomQuote
