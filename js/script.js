@@ -160,12 +160,7 @@ var quotes = [
     {
         quote: "Don't stop when you are tired. Stop when you're done!",
         source: "Marilyn Monroe"
-    },
-
-
-
-];
-    {quote:"Education is the passport to the future, for tomorrow belongs to those who prepare for it today.",
+    },{quote:"Education is the passport to the future, for tomorrow belongs to those who prepare for it today.",
     source:"Malcolm X", tags:["#Education", "#Knowldege", "#History"]},
    {quote:"I believe in human beings, and that all human beings should be respected as such, regardless of their color.",
     source:"Malcolm X",tags:["#Equality", "#Humanity", "#Love"]},
@@ -193,6 +188,9 @@ var quotes = [
     source:"Hannibal Barca"}
     {quote:"When we are no longer able to change a situation, we are challenged to change ourselves.",
     source:"Viktor Frankl"},
+    {quote: "Differences of habit and language are nothing at all if our aims are identical and our hearts are open",
+    source:"Harry Potter Movies"},
+
     {quote:"I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhauser gate. All those moments will be lost in time, like tears in rain...",
     source:"Roy Batty"}
     {quote:"Art is a summary of nature made by imagination.",
