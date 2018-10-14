@@ -183,6 +183,8 @@ var quotes = [
     source:"Viktor Frankl"},
     {quote:"When we are no longer able to change a situation, we are challenged to change ourselves.",
     source:"Viktor Frankl"},
+    {quote:"I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhauser gate. All those moments will be lost in time, like tears in rain...",
+    source:"Roy Batty"}
     {quote:"Art is a summary of nature made by imagination.",
     source:"Eça de Queirós"}
     {quote:"Pretend inferiority and encourage his arrogance.", source: "Sun Tzu"}
