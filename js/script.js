@@ -188,6 +188,9 @@ var quotes = [
     source:"Hannibal Barca"}
     {quote:"When we are no longer able to change a situation, we are challenged to change ourselves.",
     source:"Viktor Frankl"},
+    {quote:"Changes and progress very rarely are gifts from above.  They come out of struggles from below",
+    source:"Noam Chomsky"}
+
     {quote: "Differences of habit and language are nothing at all if our aims are identical and our hearts are open",
     source:"Harry Potter Movies"},
 
@@ -226,7 +229,7 @@ function getRandomQuote(array) {
 
 // Create the printQuote funtion and name it printQuote
 function printQuote() {
-    //call randomquote and store the returned quote in a variable 
+    //call randomquote and store the returned quote in a variable
     getRandomColor(colors);
     var randomQuote = getRandomQuote(quotes);
     if (randomQuote.hasOwnProperty('tags')) {
@@ -242,7 +245,7 @@ function printQuote() {
         document.getElementById('quote-box').innerHTML = '<p class="quote">' + randomQuote.quote + '</p><p class="source">' + randomQuote.source + '</p>';
     }
 };
-//refresh page every 5 seconds 
+//refresh page every 5 seconds
 setInterval(printQuote, 9000);
 
 
