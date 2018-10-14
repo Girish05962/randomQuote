@@ -25,6 +25,9 @@ var quotes = [
     {quote:"When we are no longer able to change a situation, we are challenged to change ourselves.",
     source:"Viktor Frankl"},
     {quote:"Pretend inferiority and encourage his arrogance.", source: "Sun Tzu"}
+
+    {quote:"I did not become a vegetarian for my health, I did it for the health of the chickens.",
+    source:"Isaac Bashevis Singer" }
  
  ];
 
