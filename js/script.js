@@ -165,6 +165,30 @@ var quotes = [
 
 
 ];
+    {quote:"Education is the passport to the future, for tomorrow belongs to those who prepare for it today.",
+    source:"Malcolm X", tags:["#Education", "#Knowldege", "#History"]},
+   {quote:"I believe in human beings, and that all human beings should be respected as such, regardless of their color.",
+    source:"Malcolm X",tags:["#Equality", "#Humanity", "#Love"]},
+    {quote:"My alma mater was books, a good library.... I could spend the rest of my life reading, just satisfying my curiosity",
+    source:"Malcolm X"},
+    {quote:"For me, it is far better to grasp the Universe as it really is than to persist in delusion, however satisfying and reassuring.",
+    source:"Carl Sagan", tags:["#Astronomy", "#Science","#Big Facts"]},
+    {quote:"We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology.",
+    source:"Carl Sagan"},
+    {quote:"Somewhere, something incredible is waiting to be known.",
+    source:"Carl Sagan"},
+    {quote:"Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.",
+    source:"Viktor Frankl"},
+   {quote:"Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.",
+    source:"Viktor Frankl"},
+    {quote:"When we are no longer able to change a situation, we are challenged to change ourselves.",
+    source:"Viktor Frankl"},
+    {quote:"Pretend inferiority and encourage his arrogance.", source: "Sun Tzu"}
+
+    {quote:"I did not become a vegetarian for my health, I did it for the health of the chickens.",
+    source:"Isaac Bashevis Singer" }
+ 
+ ];
 
 // Create the getRandomQuuote function and name it getRandomQuote
 
