@@ -23,7 +23,9 @@ var quotes = [
    {quote:"Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.",
     source:"Viktor Frankl"},
     {quote:"When we are no longer able to change a situation, we are challenged to change ourselves.",
-    source:"Viktor Frankl"}
+    source:"Viktor Frankl"},
+    {quote: "Differences of habit and language are nothing at all if our aims are identical and our hearts are open",
+    source:"Harry Potter Movies"},
  
  ];
 
