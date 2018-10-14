@@ -20,10 +20,18 @@ var quotes = [
     source:"Carl Sagan"},
     {quote:"Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.",
     source:"Viktor Frankl"},
-   {quote:"Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.",
+    {quote:"Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.",
     source:"Viktor Frankl"},
-    {quote:"When we are no longer able to change a situation, we are challenged to change ourselves.",
-    source:"Viktor Frankl"}
+    {quote:"I would much rather have men ask why I have no statue than why I have one.",
+    source:"Marcus Porcius Cato"},
+    {quote:"It is better to live one day as a lion and die than to live a thousand as a sheep.",
+    source:"Italian proverb"},
+    {quote:"You must be the change you wish to see in the world.",
+    source:"Mahatma Ghandi"},
+    {quote:"Know thy self, know thy enemy. A thousand battles, a thousand victories.",
+    source:"Sun Tzu"},
+    {quote:"We will either find a way, or make one.",
+    source:"Hannibal Barca"}
  
  ];
 
